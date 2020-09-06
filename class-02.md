@@ -38,9 +38,8 @@
 
 
 **Structural and semantic markup** `Semantic Markup`
-- strong ` <strong> `
+- strong `<strong>`
 - em `<em>`
-
 - Quotations `<blockquote>`
 
 ```
@@ -51,13 +50,13 @@
 
 ```
 
-- shorter quotes `<q>`
+- shorter quotes `<q>` 
 
 ```
 <p>As Ms Hanna said, <q>also has a great mobile app
 </q></p>
-
  ```
+
  - address `<address>`
 
  ```
@@ -66,6 +65,7 @@
  aghyadalbalkhi@gmail.com</a></p>
 <p>Jordan - AMMAN.</p>
 </address>
+
  ```
 
 ![Semantic](semantic-markup.png) 
@@ -154,11 +154,11 @@ INDEX    VALUE
 ![OPERATORS](operators-in-programming-languages.png) 
 
 
-* ASSIGNMENT OPERATORS *It assign Value To Variable* ` Car = 'BMW';`
+* ASSIGNMENT OPERATORS *It assign Value To Variable*  ` Car = 'BMW';`
 * COMPARISON OPERATORS  *It Compare Values * ` Max = 10 > 2`
-* ARITHMETIC OPERATORS  *Doing Math Math* ` result= 3 * 2;`
-* LOGICAL OPERATORS *Combine expressions * ` result= (3 > 1) && (2 < 14);`
-* STRING OPERATORS *Concatention  expressions * ` GoodMorning= 'Good'+ 'Morning'; `
+* ARITHMETIC OPERATORS  *Doing Math Math*  ` result= 3 * 2;`
+* LOGICAL OPERATORS *Combine expressions *  ` result= (3 > 1) && (2 < 14);`
+* STRING OPERATORS *Concatention  expressions *  ` GoodMorning= 'Good'+ 'Morning'; `
 
 **Decisions Making and Loops**
 
@@ -169,9 +169,10 @@ INDEX    VALUE
 
 ![If](scala-if-else-1_xehql4.png) 
 
-```
 
 **Example**
+
+```
 if (hour < 18) {
   greeting = "Good day";
 }
