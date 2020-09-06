@@ -26,6 +26,7 @@
 ![semantic-fb](semantic-fb.jpg) 
 
 ## Structural markup
+
 **Headings and paragraphs** `Structural markup`
 - Heading `<h1>`  `<h1> Readings : Basics of HTML, CSS & JS </h1>`
 - Paragraphs `<p>` `<p> We Will Learn More Toghather </p>`
@@ -43,18 +44,22 @@
 - Quotations `<blockquote>`
 
 ```
+
 <blockquote cite="https://www.tutorialrepublic.com/css-tutorial/">
  <p>CSS is the key presentational technology that is used in website design</p>
 </blockquote>
+
 ```
 
 - shorter quotes `<q>`
+
 ```
 <p>As Ms Hanna said, <q>also has a great mobile app
 </q></p>
+
  ```
- 
  - address `<address>`
+
  ```
  <address>
 <p><a href="mailto:aghyadalbalkhi@gmail.com">
@@ -77,15 +82,18 @@
 *CSS interacts with HTML elements directly and applies the style to them*
 
 **For Example**
+
 *If I have this paragraph*
 
 `<p>Welcome To 201 Course!</p>`
 
 * and I wanna To make some Style, like color or font effects *
 ```
+
 p  {  color:pink;  font-weight:bold;  }
 
 ```
+
 **Some CSS**
 - background-color `body { background-color: rgb(200,200,200);}`
 - color `h1 {color: DarkCyan;}`
@@ -113,21 +121,30 @@ It's where value stored In
 *In a above Example the Variable is UserName which store the name that User Inset in Pormot Window*
 
 **ARRAY**
+
 *An array is a data structure where we can store more than one value**
 
 ![ARRAY](Arrays-in-Programming-2.png) 
 
 ```
+
 var Car;
 Car ['BMW', 'Audi', ' Toyota']; 
+
 ```
+
+
 **VALUES IN ARRAYS **
+
 *Values In Array Access By Index* 
+
 ```
+
 INDEX    VALUE
 0       'BMW '
 1       'Audi'
 2       'Toyota'
+
 ```
 
 **OPERATORS**
@@ -153,19 +170,24 @@ INDEX    VALUE
 ![If](scala-if-else-1_xehql4.png) 
 
 ```
+
 **Example**
 if (hour < 18) {
   greeting = "Good day";
 }
+
 ```
 
 **Switch Loop**
+
 *a switch statement is a type of condition control  used to allow the value of a variable to change the control of program*
+
 ![Switch](flowchart-switch-statement.jpg) 
 
 **Example**
 
 ```
+
 var day;
 switch (new Date().getDay()) {
   case 0:
@@ -191,7 +213,9 @@ switch (new Date().getDay()) {
 }
 document.getElementById("demo").innerHTML = "Today is " + day;
 </script>
+
 ```
+
 Example From : [w3schools](https://www.w3schools.com/js/tryit.asp?filename=tryjs_switch)
 
 
