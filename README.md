@@ -21,3 +21,4 @@ This Site Will Contain  all future repo and Previous Form  102 Class
 | Read: 07 - Programming with JavaScript | [Read: 07 - Programming with JavaScript ](https://aghyadalbalkhi-asac.github.io/Reading-Notes/Read:%2007%20-%20Programming%20with%20JavaScript)                     |
 | Read: 08 - Operators and Loops | [Read: 08 - Operators and Loops ](https://aghyadalbalkhi-asac.github.io/Reading-Notes/Read:%2008%20-%20Operators%20and%20Loops)                     |
 | Read: 04 - Structure web pages with HTML| [Read: 04 - Structure web pages with HTML](https://aghyadalbalkhi-asac.github.io/Reading-Notes/read-04)                     |
+| Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions| [Read: 02](https://aghyadalbalkhi-asac.github.io/201-Course/class-02)                     |
