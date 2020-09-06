@@ -87,7 +87,8 @@
 
 `<p>Welcome To 201 Course!</p>`
 
-* and I wanna To make some Style, like color or font effects *
+*and I wanna To make some Style, like color or font effects*
+
 ```
 
 p  {  color:pink;  font-weight:bold;  }
@@ -95,6 +96,7 @@ p  {  color:pink;  font-weight:bold;  }
 ```
 
 **Some CSS**
+
 - background-color `body { background-color: rgb(200,200,200);}`
 - color `h1 {color: DarkCyan;}`
 - opacity `p { background-color: rgb(0,0,0);opacity: 0.5;}`
@@ -102,39 +104,42 @@ p  {  color:pink;  font-weight:bold;  }
 
 ## JavaScript
 
->Basic JavaScript Instructions
+> Basic JavaScript Instructions
 
 **STATEMENTS**
+
 *A script is a series of instructions that a computer can follow one-by-one*
 
 **COMMENTS**
 
 *It's Used To Expline the Code Writted By Developer*
-` var UserName = promot("enter Your Name");   /// It Take the Name Of User `
+
+`var UserName = promot("enter Your Name");   /// It Take the Name Of User`
 
 **VARIABLE**
+
 It's where value stored In
 
 ![VARIABLE](Variable-in-Java.jpg) 
 
-` var UserName = promot("enter Your Name");   /// It Take the Name Of User `
+`var UserName = promot("enter Your Name");   /// It Take the Name Of User`
+
 *In a above Example the Variable is UserName which store the name that User Inset in Pormot Window*
 
 **ARRAY**
 
-*An array is a data structure where we can store more than one value**
+*An array is a data structure where we can store more than one value*
 
 ![ARRAY](Arrays-in-Programming-2.png) 
 
 ```
-
 var Car;
 Car ['BMW', 'Audi', ' Toyota']; 
 
 ```
 
 
-**VALUES IN ARRAYS **
+**VALUES IN ARRAYS**
 
 *Values In Array Access By Index* 
 
@@ -155,10 +160,10 @@ INDEX    VALUE
 
 
 * ASSIGNMENT OPERATORS *It assign Value To Variable*  ` Car = 'BMW';`
-* COMPARISON OPERATORS  *It Compare Values * ` Max = 10 > 2`
+* COMPARISON OPERATORS  *It Compare Values* ` Max = 10 > 2`
 * ARITHMETIC OPERATORS  *Doing Math Math*  ` result= 3 * 2;`
-* LOGICAL OPERATORS *Combine expressions *  ` result= (3 > 1) && (2 < 14);`
-* STRING OPERATORS *Concatention  expressions *  ` GoodMorning= 'Good'+ 'Morning'; `
+* LOGICAL OPERATORS *Combine expressions*  ` result= (3 > 1) && (2 < 14);`
+* STRING OPERATORS *Concatention  expressions*  ` GoodMorning= 'Good'+ 'Morning'; `
 
 **Decisions Making and Loops**
 
