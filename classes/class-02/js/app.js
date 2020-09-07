@@ -74,6 +74,7 @@ if (checkAnswer(OwnerDegree) === 'y') {
   alert('Your Answer Is Right');
 }
 
+alert('Nice Back and Weclome To Our Site again'+OwnerName);
 
 
 
