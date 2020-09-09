@@ -163,7 +163,110 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 To Run into The Live Example Click Here [w3schools](https://www.w3schools.com/html/html_colors.asp)
 
 
-* **Color terminology and contrast**
+* **contrast**
 
+- `opacity` Is Used To determine The opacity Of HTML Elements
+- `rgba` It's Like RGB color values That set the Color but with opacity .
+
+**For Example**
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#p1 {background-color:rgb(255,0,0);opacity:0.6;}
+#p2 {background-color:rgba(0,255,0,0.5);}
+
+</style>
+</head>
+<body>
+
+<h1>Rgba Colors With Opacity</h1>
+
+<p id="p1">Red</p>
+<p id="p2">Green</p>
+
+
+</body>
+</html>
+
+```
+To Run into The Live Example Click Here [contrast](https://www.w3schools.com/css/tryit.asp?filename=trycss3_color_opacity)
 
 * **Background color**
+- `HSL` HSL stands for hue, saturation, and lightness.
+- `HSLA` It's Like HSL but with opacity .
+
+**For Example**
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#p1 {background-color:hsla(120,100%,50%,0.3);}
+</style>
+</head>
+
+<body>
+<p>HSL colors with opacity:</p>
+<p id="p1">Green</p>
+</body>
+</html>
+
+```
+
+To Run into The Live Example Click Here [Background](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_func_hsla)
+
+> Text
+
+![Text](style.jpg) 
+
+* **Size and typeface of text**
+
+
+- Typeface Terminology `Serif` `Sans-Serif` `Monospace`
+
+*Specifying Typefaces font-family*
+
+```
+h1, h2 {
+ font-family: Arial, Verdana, sans-serif;
+ }
+```
+*Specifying The Size font*
+
+```
+h1, h2 {
+ font-family: Arial, Verdana, sans-serif;
+ font-size: 12px;
+ }
+```
+
+- Type Scales `Pixels` `Percentages`   `Ems` 
+               `24px`      `200%`     `1.5em`
+
+- font-weight  `h1 {font-weight: bold;}`
+- font-style `h1 {font-weight: Article;}`
+- text-decoration  `a {text-decoration: none;}`
+
+* **Spacing between lines, words, and letters**
+
+*The Text Syle*
+
+- text-align `left` `right` `center` `justify`
+
+- text-shadow `p.one { text-shadow: 1px 1px 0px #000000;}`
+
+* **Responding to Users**
+
+- hover `input.submit:hover {background-color: #665544;}`
+- active `input.submit:active {background-color: chocolate;}`
+- focus `input.text:focus {color: #665544;}`
+
+
+## Contact Info : 
+**Please Feel Free To Contact Me When You Need help ^_^**
+* [www.facebook.com/aghyadalbalkhi](www.facebook.com/aghyadalbalkhi)
+* Email : aghyadalbalkhi@gmail.com
