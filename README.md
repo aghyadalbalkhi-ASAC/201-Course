@@ -25,4 +25,5 @@ This Site Will Contain  all future repo and Previous Form  102 Class
 | Read: 03 - HTML Lists, CSS Boxes, JS Control Flow| [Read: 03](https://aghyadalbalkhi-asac.github.io/201-Course/Read-03)                     |
 | Read: 04 - HTML Links, CSS Layout, JS Functions| [Read: 04](https://aghyadalbalkhi-asac.github.io/201-Course/Read-04)                     |
 | Read: 05 - HTML Links, CSS Layout, JS Functions| [Read: 05](https://aghyadalbalkhi-asac.github.io/201-Course/Read-05)                     |
-| Read: 06 - JS Object Literals; The DOM| [Read: 06](https://aghyadalbalkhi-asac.github.io/201-Course/Read-06)       
+| Read: 06 - JS Object Literals; The DOM| [Read: 06](https://aghyadalbalkhi-asac.github.io/201-Course/Read-06)   
+| Read: 07 - HTML Tables; JS Constructor Functions| [Read: 07](https://aghyadalbalkhi-asac.github.io/201-Course/Read-07)       
