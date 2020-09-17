@@ -28,4 +28,5 @@ This Site Will Contain  all future repo and Previous Form  102 Class
 | Read: 06 - JS Object Literals; The DOM| [Read: 06](https://aghyadalbalkhi-asac.github.io/201-Course/Read-06)   
 | Read: 07 - HTML Tables; JS Constructor Functions| [Read: 07](https://aghyadalbalkhi-asac.github.io/201-Course/Read-07)       
 | Read: 08 - More CSS Layout| [Read: 08](https://aghyadalbalkhi-asac.github.io/201-Course/Read-08)       
-
+| Read: 08 - More CSS Layout| [Read: 08](https://aghyadalbalkhi-asac.github.io/201-Course/Read-08)
+| Read: 10 - JS Debugging| [Read: 10](https://aghyadalbalkhi-asac.github.io/201-Course/Read-10)
