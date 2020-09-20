@@ -30,3 +30,4 @@ This Site Will Contain  all future repo and Previous Form  102 Class
 | Read: 08 - More CSS Layout| [Read: 08](https://aghyadalbalkhi-asac.github.io/201-Course/Read-08)       
 | Read: 09 - Forms and Events| [Read: 09](https://aghyadalbalkhi-asac.github.io/201-Course/Read-09)
 | Read: 10 - JS Debugging| [Read: 10](https://aghyadalbalkhi-asac.github.io/201-Course/Read-10)
+| Read: 11 - Assorted Topics| [Read: 11](https://aghyadalbalkhi-asac.github.io/201-Course/Read-11)
