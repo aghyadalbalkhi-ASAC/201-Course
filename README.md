@@ -33,3 +33,8 @@ This Site Will Contain  all future repo and Previous Form  102 Class
 | Read: 11 - Assorted Topics| [Read: 11](https://aghyadalbalkhi-asac.github.io/201-Course/Read-11)
 | Read: 12 - Chart Js Canvas| [Read: 12](https://aghyadalbalkhi-asac.github.io/201-Course/Read-11)
 | Read: 13 - Local Storage| [Read: 13](https://aghyadalbalkhi-asac.github.io/201-Course/Read-13)
+| Read: 14a - CSS Transforms, Transitions, and Animations| [Read: 14a](https://aghyadalbalkhi-asac.github.io/201-Course/Read-14a)
+| Read: 14b - What Google Learned About Teams| [Read: 14b](https://aghyadalbalkhi-asac.github.io/201-Course/Read-14b)
+
+
+
